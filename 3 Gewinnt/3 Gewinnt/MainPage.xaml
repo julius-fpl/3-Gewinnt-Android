@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="_3_Gewinnt.MainPage">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+
+        <Button x:Name="Start" Grid.Row="0" Grid.Column="1" Grid.ColumnSpan="2" Text="Start" Clicked="Start_Clicked"/>
+        <Label x:Name="SpielerText" Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="1" Text="Spieler 1 ist dran" TextColor="Black" FontSize="Title" IsVisible="false"/>
+
+        <Button x:Name="B1" Grid.Row="1" Grid.Column="0" Clicked="B1_Clicked"/>
+        <Button x:Name="B2" Grid.Row="2" Grid.Column="0" Clicked="B2_Clicked"/>
+        <Button x:Name="B3" Grid.Row="3" Grid.Column="0" Clicked="B3_Clicked"/>
+
+        <Button x:Name="B4" Grid.Row="1" Grid.Column="1" Clicked="B4_Clicked"/>
+        <Button x:Name="B5" Grid.Row="2" Grid.Column="1" Clicked="B5_Clicked"/>
+        <Button x:Name="B6" Grid.Row="3" Grid.Column="1" Clicked="B6_Clicked"/>
+
+        <Button x:Name="B7" Grid.Row="1" Grid.Column="2" Clicked="B7_Clicked"/>
+        <Button x:Name="B8" Grid.Row="2" Grid.Column="2" Clicked="B8_Clicked"/>
+        <Button x:Name="B9" Grid.Row="3" Grid.Column="2" Clicked="B9_Clicked"/>
+    </Grid>
+
+</ContentPage>

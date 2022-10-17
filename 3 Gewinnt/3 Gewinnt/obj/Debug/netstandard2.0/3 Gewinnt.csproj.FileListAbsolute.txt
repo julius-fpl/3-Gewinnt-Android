@@ -1,0 +1,44 @@
+C:\Users\user\source\repos\3 Gewinnt\3 Gewinnt\bin\Debug\netstandard2.0\3 Gewinnt.deps.json
+C:\Users\user\source\repos\3 Gewinnt\3 Gewinnt\bin\Debug\netstandard2.0\3 Gewinnt.dll
+C:\Users\user\source\repos\3 Gewinnt\3 Gewinnt\bin\Debug\netstandard2.0\ref\3 Gewinnt.dll
+C:\Users\user\source\repos\3 Gewinnt\3 Gewinnt\bin\Debug\netstandard2.0\3 Gewinnt.pdb
+C:\Users\user\source\repos\3 Gewinnt\3 Gewinnt\obj\Debug\netstandard2.0\3 Gewinnt.csprojAssemblyReference.cache
+C:\Users\user\source\repos\3 Gewinnt\3 Gewinnt\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\user\source\repos\3 Gewinnt\3 Gewinnt\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\user\source\repos\3 Gewinnt\3 Gewinnt\obj\Debug\netstandard2.0\3 Gewinnt.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\3 Gewinnt\3 Gewinnt\obj\Debug\netstandard2.0\3 Gewinnt.AssemblyInfo.cs
+C:\Users\user\source\repos\3 Gewinnt\3 Gewinnt\obj\Debug\netstandard2.0\3 Gewinnt.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\3 Gewinnt\3 Gewinnt\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\user\source\repos\3 Gewinnt\3 Gewinnt\obj\Debug\netstandard2.0\3 Gewinnt.dll
+C:\Users\user\source\repos\3 Gewinnt\3 Gewinnt\obj\Debug\netstandard2.0\ref\3 Gewinnt.dll
+C:\Users\user\source\repos\3 Gewinnt\3 Gewinnt\obj\Debug\netstandard2.0\3 Gewinnt.pdb
+C:\Users\Julius\source\repos\3 Gewinnt\3 Gewinnt\bin\Debug\netstandard2.0\3 Gewinnt.deps.json
+C:\Users\Julius\source\repos\3 Gewinnt\3 Gewinnt\bin\Debug\netstandard2.0\3 Gewinnt.dll
+C:\Users\Julius\source\repos\3 Gewinnt\3 Gewinnt\bin\Debug\netstandard2.0\ref\3 Gewinnt.dll
+C:\Users\Julius\source\repos\3 Gewinnt\3 Gewinnt\bin\Debug\netstandard2.0\3 Gewinnt.pdb
+C:\Users\Julius\source\repos\3 Gewinnt\3 Gewinnt\obj\Debug\netstandard2.0\3 Gewinnt.csproj.AssemblyReference.cache
+C:\Users\Julius\source\repos\3 Gewinnt\3 Gewinnt\obj\Debug\netstandard2.0\3 Gewinnt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Julius\source\repos\3 Gewinnt\3 Gewinnt\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Julius\source\repos\3 Gewinnt\3 Gewinnt\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Julius\source\repos\3 Gewinnt\3 Gewinnt\obj\Debug\netstandard2.0\3 Gewinnt.AssemblyInfoInputs.cache
+C:\Users\Julius\source\repos\3 Gewinnt\3 Gewinnt\obj\Debug\netstandard2.0\3 Gewinnt.AssemblyInfo.cs
+C:\Users\Julius\source\repos\3 Gewinnt\3 Gewinnt\obj\Debug\netstandard2.0\3 Gewinnt.csproj.CoreCompileInputs.cache
+C:\Users\Julius\source\repos\3 Gewinnt\3 Gewinnt\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Julius\source\repos\3 Gewinnt\3 Gewinnt\obj\Debug\netstandard2.0\3 Gewinnt.dll
+C:\Users\Julius\source\repos\3 Gewinnt\3 Gewinnt\obj\Debug\netstandard2.0\ref\3 Gewinnt.dll
+C:\Users\Julius\source\repos\3 Gewinnt\3 Gewinnt\obj\Debug\netstandard2.0\3 Gewinnt.pdb
+C:\Users\Julius\source\repos\Archiv\3 Gewinnt\3 Gewinnt\bin\Debug\netstandard2.0\3 Gewinnt.deps.json
+C:\Users\Julius\source\repos\Archiv\3 Gewinnt\3 Gewinnt\bin\Debug\netstandard2.0\3 Gewinnt.dll
+C:\Users\Julius\source\repos\Archiv\3 Gewinnt\3 Gewinnt\bin\Debug\netstandard2.0\3 Gewinnt.pdb
+C:\Users\Julius\source\repos\Archiv\3 Gewinnt\3 Gewinnt\obj\Debug\netstandard2.0\3 Gewinnt.csproj.AssemblyReference.cache
+C:\Users\Julius\source\repos\Archiv\3 Gewinnt\3 Gewinnt\obj\Debug\netstandard2.0\3 Gewinnt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Julius\source\repos\Archiv\3 Gewinnt\3 Gewinnt\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Julius\source\repos\Archiv\3 Gewinnt\3 Gewinnt\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Julius\source\repos\Archiv\3 Gewinnt\3 Gewinnt\obj\Debug\netstandard2.0\3 Gewinnt.AssemblyInfoInputs.cache
+C:\Users\Julius\source\repos\Archiv\3 Gewinnt\3 Gewinnt\obj\Debug\netstandard2.0\3 Gewinnt.AssemblyInfo.cs
+C:\Users\Julius\source\repos\Archiv\3 Gewinnt\3 Gewinnt\obj\Debug\netstandard2.0\3 Gewinnt.csproj.CoreCompileInputs.cache
+C:\Users\Julius\source\repos\Archiv\3 Gewinnt\3 Gewinnt\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Julius\source\repos\Archiv\3 Gewinnt\3 Gewinnt\obj\Debug\netstandard2.0\3 Gewinnt.dll
+C:\Users\Julius\source\repos\Archiv\3 Gewinnt\3 Gewinnt\obj\Debug\netstandard2.0\refint\3 Gewinnt.dll
+C:\Users\Julius\source\repos\Archiv\3 Gewinnt\3 Gewinnt\obj\Debug\netstandard2.0\3 Gewinnt.pdb
+C:\Users\Julius\source\repos\Archiv\3 Gewinnt\3 Gewinnt\obj\Debug\netstandard2.0\ref\3 Gewinnt.dll

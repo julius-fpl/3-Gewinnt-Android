@@ -1,0 +1,1 @@
+C:\Users\user\source\repos\3Gewinnt\3Gewinnt.UWP\3Gewinnt.UWP.csproj;arm
